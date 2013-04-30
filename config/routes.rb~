@@ -1,5 +1,8 @@
 Myblog::Application.routes.draw do
+<<<<<<< HEAD
   root :to => 'posts#index'
+=======
+>>>>>>> 21602fb0175e0e431717b3355991dd93be8d275a
   resources :posts
 
 
