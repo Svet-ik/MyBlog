@@ -11,6 +11,10 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> b5d34c942bdbff55bc79a399f7d83872bfd1812a
 ActiveRecord::Schema.define(:version => 20130423093241) do
 
   create_table "posts", :force => true do |t|
